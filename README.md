@@ -11,3 +11,12 @@ The RAG pipeline allows for efficient retrieval of relevant document segments (c
 - Vector Database Integration: Upload chunked data and embeddings into a Qdrant vector database for retrieval.
 - Contextual Answer Generation: Use a locally running LLM to generate answers to questions, using retrieved context from the Qdrant database.
 - Optimized Code: Clean, modular, and optimized Python code for better performance and readability.
+
+## Contents
+The repository contains the following:
+
+- _From_Chunking_To_Uploading_Into_Qdrant.ipynb_: 
+- _rag.py_:
+- _angewandte_mathematik.pdf_
+- _data_science.pdf_
+- _README.md_: The file you are reading now.
