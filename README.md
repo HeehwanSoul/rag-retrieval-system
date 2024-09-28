@@ -15,8 +15,8 @@ The RAG pipeline allows for efficient retrieval of relevant document segments (c
 ## Contents
 The repository contains the following:
 
-- _From_Chunking_To_Uploading_Into_Qdrant.ipynb_: 
-- _rag.py_:
+- _From_Chunking_To_Uploading_Into_Qdrant.ipynb_: This notebook handles the complete workflow of processing documents, including chunking them into manageable segments, checking the input length against the model's token limits, generating custom embeddings, and uploading the results into a Qdrant vector database for retrieval and search integration.
+- _rag.py_: The rag.py file implements a Retrieval-Augmented Generation (RAG) pipeline, combining neural search with a sentence transformer for retrieving relevant document chunks from a Qdrant database and using a causal language model to generate context-based answers to user queries. It also includes functionality to process user inputs, retrieve relevant information, and generate responses, while monitoring execution time.
 - _README.md_: The file you are reading now.
 
 The two PDF files used for chunking are:
