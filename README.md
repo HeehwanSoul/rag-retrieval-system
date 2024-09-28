@@ -17,6 +17,8 @@ The repository contains the following:
 
 - _From_Chunking_To_Uploading_Into_Qdrant.ipynb_: 
 - _rag.py_:
-- _angewandte_mathematik.pdf_
-- _data_science.pdf_
 - _README.md_: The file you are reading now.
+
+The two PDF files used for chunking are:
+- _angewandte_mathematik.pdf_: This document is a module handbook for the Bachelor's program in Applied and Computational Mathematics from Beuth Hochschule, covering courses such as Calculus, Linear Algebra, and Numerical Mathematics​.
+- _data_science.pdf_: This document is a module handbook for the Master's program in Data Science, also from Beuth Hochschule, with topics including Machine Learning, Statistical Computing, and Big Data systems​.
